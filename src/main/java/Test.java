@@ -9,7 +9,7 @@ public class Test {
     }
 
     void second(){
-        System.out.println();
+        System.out.println("dev2");
     }
 
     void third(){
