@@ -17,6 +17,6 @@ public class Test {
     }
 
     void fourth(){
-
+       System.out.println("delete");
     }
 }
