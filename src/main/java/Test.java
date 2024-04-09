@@ -5,11 +5,11 @@ public class Test {
     }
 
     void first(){
-        System.out.println();
+        System.out.println("dev");
     }
 
     void second(){
-        System.out.println();
+        System.out.println("dev2");
     }
 
     void third(){
