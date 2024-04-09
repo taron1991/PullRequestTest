@@ -13,7 +13,7 @@ public class Test {
     }
 
     void third(){
-        System.out.println();
+        System.out.println("koroleva!");
     }
 
     void fourth(){
