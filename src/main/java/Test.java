@@ -15,4 +15,8 @@ public class Test {
     void third(){
         System.out.println();
     }
+
+    void fourth(){
+
+    }
 }
